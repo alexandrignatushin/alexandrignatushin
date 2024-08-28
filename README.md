@@ -1,16 +1,37 @@
-## Hi there 👋
+<div align="center">
+  <h3>
+    :book: About Me
+  </h3>
+</div>
 
-<!--
-**AlexandrIgnatushin/alexandrignatushin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+  <h3>
+    :fire: My Stats
+  </h3>
 
-Here are some ideas to get you started:
+  <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alexandrignatushin&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=alexandrignatushin&theme=radical)](https://git.io/streak-stats)
+
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=alexandrignatushin&show_icons=true&theme=radical"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=alexandrignatushin&show_icons=true"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=alexandrignatushin&show_icons=true" />
+</picture>
+
+  <br>
+  <br>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrignatushin&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+
