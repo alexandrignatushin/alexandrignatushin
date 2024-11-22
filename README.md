@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="margin-bottom: 30px;">
   
   <br>
   
@@ -16,9 +16,8 @@
     media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=alexandrignatushin&show_icons=true" />
-</picture>
-
-  <br>
-
+  </picture>
+</div>
+<div>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrignatushin&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
