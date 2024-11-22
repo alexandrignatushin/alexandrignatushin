@@ -17,7 +17,8 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=alexandrignatushin&show_icons=true" />
   </picture>
-</div>
-<div>
+  <br>
+  <br>
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrignatushin&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
